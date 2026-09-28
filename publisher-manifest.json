@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "003143ab5ce0fb4af9750860",
+  "owner": "peyrdlgj",
+  "repo": "page-e32d1d1a9fe4bab5df1a17e0",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e32d1d1a9fe4bab5df1a17e0",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c9ef69f70c2d12ba25d40763ac2cc575411c9586375c06409d15f62a01b16cb3",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供稳定高速的网络加速服务，客户端下载和使用指南",
+          "AI_DESCRIPTION": "魔戒VPN提供稳定高速的网络加速服务，客户端下载和使用指南"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #0A2540;\n            --cyan: #22D3EE;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            margin: 0;\n            padding: 0;\n            line-height: 1.6;\n            background: var(--blue);\n            color: #E0F2FE;\n        }\n        nav {\n            background: var(--blue);\n            padding: 1rem 0;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        ul {\n            display: flex;\n            justify-content: center;\n            gap: 2rem;\n            list-style: none;\n            margin: 0;\n            padding: 0;\n        }\n        a {\n            color: #E0F2FE;\n            text-decoration: none;\n            transition: color 0.3s;\n        }\n        a:hover {\n            color: var(--cyan);\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .hero {\n            padding: 150px 20px 100px;\n            text-align: center;\n            background: linear-gradient(135deg, var(--blue), #1E3A8A);\n            position: relative;\n        }\n        .hero h1 {\n            font-size: 3.5rem;\n            margin: 0 0 20px;\n            font-weight: 700;\n        }\n        .hero p {\n            font-size: 1.8rem;\n            margin: 0;\n            opacity: 0.85;\n        }\n        section {\n            padding: 60px 0;\n        }\n        h2 {\n            color: var(--cyan);\n            font-size: 2.2rem;\n            margin-bottom: 20px;\n            text-align: center;\n        }\n        p {\n            font-size: 1.1rem;\n            margin-bottom: 20px;\n        }\n        details {\n            background: rgba(255,255,255,0.05);\n            margin-bottom: 15px;\n            border-radius: 8px;\n            padding: 15px;\n        }\n        summary {\n            font-weight: bold;\n            color: #fff;\n            cursor: pointer;\n            font-size: 1.2rem;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #0A2540;\n            text-align: center;\n            padding: 40px 20px;\n            color: #94A3B8;\n        }\n        @media (max-width: 768px) {\n            .hero h1 {\n                font-size: 2.5rem;\n            }\n            ul {\n                gap: 1rem;\n                font-size: 0.9rem;\n            }\n            h2 {\n                font-size: 1.8rem;\n            }\n        }\n    </style>\n\n\n    <nav>\n        <ul>\n            <li><a href=\"#intro\">品牌简介</a></li>\n            <li><a href=\"#scenarios\">使用场景</a></li>\n            <li><a href=\"#plans\">套餐选择</a></li>\n            <li><a href=\"#faq\">常见问题</a></li>\n        </ul>\n    </nav>\n    <main>\n        <section class=\"hero\">\n            <h1>魔戒</h1>\n            <p>VPN 加速器</p>\n            <div></div>\n        </section>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>魔戒是一个专注于提供优质网络加速服务的品牌，致力于帮助用户实现稳定高速的互联网连接。</p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>适用于在家办公、海外出差、游戏加速以及突破地域限制的内容访问等场景。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"operation\">\n            <h2>操作说明</h2>\n            <p>使用魔戒VPN非常简单：首先访问官方网站下载客户端，注册账号后选择合适的节点，连接即可享受加速服务。</p>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是魔戒VPN？</summary>\n                魔戒VPN是一款专业的网络加速解决方案，提供稳定且高速的连接体验。\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                魔戒VPN支持多台设备同时在线，方便家庭使用和办公室协作。\n            </details>\n            <details>\n                <summary>如何使用魔戒VPN？</summary>\n                下载客户端后，按照安装向导完成配置，选择节点即可加速上网。\n            </details>\n            <details>\n                <summary>能解锁流媒体吗？</summary>\n                是的，魔戒VPN提供流媒体解锁服务，帮助用户访问全球热门平台。\n            </details>\n            <details>\n                <summary>节点池包括哪些线路？</summary>\n                魔戒VPN的节点池包含多种地理位置的服务器，用户可根据需求选择最佳连接线路。\n            </details>\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 魔戒VPN 保留所有权利</p>\n        {{CLIENTS_HTML}}\n    </footer>\n\n",
+          "hash": "429936fb8fff3578568abf24a12a43e924f511b8e43fa509c7084a0b36d2fdf9",
+          "seo": {
+            "title": "魔戒VPN - 高速网络加速器，客户端下载",
+            "keywords": "魔戒VPN, VPN加速器, 客户端下载, 网络加速, 官网",
+            "description": "魔戒VPN提供稳定高速的网络加速服务，客户端下载和使用指南"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "erhwy3.cn",
+    "host": "web.erhwy3.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "erhwy3.cn",
+      "url": "https://erhwy3.cn/",
+      "label": "可乐云(Kelecloud)",
+      "apex": "erhwy3.cn",
+      "kind": null,
+      "identity": "yrfcwhsgng/page-0f79f4829085bfc0a7b71eab"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6066a45b4d3ebae358c690c7869b7efc920289f1d826515472161913b0c39e5a",
+    "sitemap.xml": "d876eb9a546a3b070babd422e978617e9de989ce6558aba7c01a78fa47329f00",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "54ec555595f1f671ceb4478f57aed88f714be02c5412431876c3dd96c7038e5f",
+    "robots.txt": "39cece68d2f6d8b63ef00d0307d60c643524bba8455a8a50101c4fbb13cc9bd1",
+    "795226c22db24dd0113b7a4d02a63376.txt": "1b178796e53f655626f75dc64f9c9fd450ee107f6f85f6854aaec74952640123"
+  },
+  "revision": "a2429373bf6ca46fa1002311ed5dd33d0b97b48697144aaaa25b574db9adace2"
+}
